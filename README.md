@@ -1,1 +1,1 @@
-# SPAM 🍆 THIS 🍆 *insérez vulgarité* 🍆 TO 🍆 HELP 🍆 DJITOU
+# SPAM 🍆 THIS 🍆 *'insérez vulgarité'* 🍆 TO 🍆 HELP 🍆 DJITOU
