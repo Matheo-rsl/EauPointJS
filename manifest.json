@@ -1,0 +1,11 @@
+{
+    "name" :"Ô",
+    "version" :"1.0",
+    "manifest_version": 3,
+    "description" :"Dans 20-30 ans, il n'y en aura plus",
+    "action" :
+    {
+        "default_icon" : "icone.png",
+        "popup" :"boire.html"
+    }
+}
