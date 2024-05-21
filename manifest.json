@@ -6,6 +6,6 @@
     "action" :
     {
         "default_icon" : "icone.png",
-        "popup" :"boire.html"
+        "default_popup" :"boire.html"
     }
 }
