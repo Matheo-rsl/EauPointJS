@@ -3,6 +3,7 @@
     "version" :"1.0",
     "manifest_version": 3,
     "description" :"Dans 20-30 ans, il n'y en aura plus",
+    "permissions": ["alarms", "notifications"],
     "action" : {
         "default_icon" : {
             "800" : "img/icone.png"
