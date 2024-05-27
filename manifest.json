@@ -1,30 +1,17 @@
 {
-    "name" :"Ô",
-    "version" :"1.0",
-    "manifest_version": 3,
-    "description" :"Dans 20-30 ans, il n'y en aura plus",
-    "permissions": ["alarms", "notifications"],
-    "action" : {
-        "default_icon" : {
-            "800" : "img/icone.png"
-        },
-
-        "default_popup" :"boire.html"
-    },
-
-    "commands" : {
-        "_execute_action" : {
-            "suggested_key" : {
-                "default" : "Ctrl + Shift + F"
-            }
-        }
-    },
-
-    "background" : {
-        "service_worker" : "js/background.js"
-    },
-
-    "icons" : {
-        "800" : "img/icone.png"
-    }
+  "manifest_version": 3,
+  "name": "Rappel d'hydratation",
+  "version": "1.0",
+  "description": "Une extension qui rappelle à l'utilisateur de boire de l'eau.",
+  "permissions": ["alarms"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "icons": {
+    "800": "icon.png"
+  },
+  "permissions": ["alarms"]
 }
